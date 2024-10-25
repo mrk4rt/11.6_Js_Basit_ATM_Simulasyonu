@@ -1,4 +1,4 @@
-Ödev: Basit ATM Simülasyonu
+Basit ATM Simülasyonu
 Kullanıcıdan bir başlangıç bakiyesi al, ardından kullanıcıya 3 seçenek sun:
 
 Para çekme
